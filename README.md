@@ -1,0 +1,2 @@
+# newme
+IA homework
